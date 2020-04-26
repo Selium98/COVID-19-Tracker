@@ -10,6 +10,7 @@
         $days_count_prev = $days_count - 1;
     }
 
+    //initialization
     $total_confirmed = 0;
     $total_recovered = 0;
     $total_deaths = 0;
