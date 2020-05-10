@@ -93,7 +93,7 @@
 
     <footer class="footer mt-auto py-3 bg-light">
         <div class="container text-center">
-            <span class="text-muted"><h2>Copyright © 2020, SELIUM98 </h2> </a></span>
+            <span class="text-muted"><h4>Copyright © 2020, SELIUM98 </h4> </a></span>
         </div>
     </footer>
 
