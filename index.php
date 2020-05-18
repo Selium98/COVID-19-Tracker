@@ -30,7 +30,7 @@
     <title>Covid-19 Tracker</title>
 </head>
 <body>
-    <div class="container-fluid bg-light p-5 text-center my-3">
+    <div class="container-fluid bg-light p-7 text-center my-4">
         <h1 class="">Covid-19 Tracker</h1><br>
         <h5 class="text-muted">A project to keep track of all the COVID-19 cases around the world.</h5>
 	<h5 class="text-muted">The site is updated every 3 hours. The data is fetched from John Hopkins University.</h5>
@@ -53,7 +53,7 @@
         </div>
     </div>
 
-    <div class="container bg-light p-3 my-5 text-center">
+    <div class="container bg-light p-5 my-5 text-center">
         <h5 class="text-info">"<b>Prevention</b> is better than <b>Cure</b>."</h5>
         <p class="text-muted"><b>Stay Indoors. Stay Safe.</b></p>
     </div>
