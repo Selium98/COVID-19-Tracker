@@ -79,7 +79,7 @@
                             <td>
                                 <?php echo $value[$days_count]['confirmed'];?>
                                 <?php if($increase != 0){ ?>
-                                    <small class="text-danger pl-3"><i class="fas fa-arrow-up"></i><?php echo $increase;?></small>  
+                                    <small class="text-danger pl-4"><i class="fas fa-arrow-up"></i><?php echo $increase;?></small>  
                                 <?php } ?>    
                             </td>
                             <td><?php echo $value[$days_count]['recovered'];?></td>
@@ -91,7 +91,7 @@
         </div>
     </div>
 
-    <footer class="footer mt-auto py-3 bg-light">
+    <footer class="footer mt-auto py-4 bg-light">
         <div class="container text-center">
             <span class="text-muted"><h4>Copyright © 2020, SELIUM98 </h4> </a></span>
         </div>
